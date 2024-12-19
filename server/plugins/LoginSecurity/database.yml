@@ -9,6 +9,6 @@ mysql:
   enabled: false
   host: 'localhost:3306'
   username: 'root'
-  password: 'DfGe#-39$df#'
+  password: ''
   # Table names are prefixed with ls_
   database: 'minecraft'
