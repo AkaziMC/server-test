@@ -4,7 +4,7 @@ godmode: false
 muted: false
 jailed: false
 ip-address: 0:0:0:0:0:0:0:1
-afk: false
+afk: true
 socialspy: false
 npc: false
 powertoolsenabled: true
@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733857707287
-  login: 1733855929818
+  logout: 1734015853813
+  login: 1734015200556
 money: '0'
 last-account-name: tim
 logoutlocation:
   world: 0747e10b-6698-4b55-b2c9-039d910c891c
   world-name: world
-  x: -17.300000011920936
-  y: 12.0
-  z: 56.69717194866158
-  yaw: 359.2003173828125
-  pitch: 0.4500080943107605
+  x: 29.86545592773571
+  y: 57.0
+  z: 56.008166161471216
+  yaw: -35.537384033203125
+  pitch: 3.4499921798706055
