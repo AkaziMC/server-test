@@ -1,5 +1,0 @@
-schedules:
-  Auto Backup:
-    execute: DAILY@700
-    actions:
-    - 5@0

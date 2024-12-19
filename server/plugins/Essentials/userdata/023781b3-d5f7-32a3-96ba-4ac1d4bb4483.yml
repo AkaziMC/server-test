@@ -16,15 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733944153598
-  login: 1733943965855
+  logout: 1734120145712
+  login: 1734119544213
 money: '0'
 last-account-name: renagade_rapier
 logoutlocation:
   world: 0747e10b-6698-4b55-b2c9-039d910c891c
   world-name: world
-  x: 191.92929570925764
-  y: 69.0
-  z: 339.649741087523
-  yaw: 329.5500183105469
-  pitch: 14.999993324279785
+  x: 110.49209024664134
+  y: 77.0
+  z: 96.96057200790275
+  yaw: 48.900146484375
+  pitch: 7.199992656707764
+lastlocation:
+  world: 0747e10b-6698-4b55-b2c9-039d910c891c
+  world-name: world
+  x: -27.96855614815053
+  y: 33.0
+  z: 149.76165079854954
+  yaw: -326.550048828125
+  pitch: -90.0

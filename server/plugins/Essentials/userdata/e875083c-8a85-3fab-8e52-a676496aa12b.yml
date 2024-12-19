@@ -4,7 +4,7 @@ godmode: false
 muted: false
 jailed: false
 ip-address: 0:0:0:0:0:0:0:1
-afk: true
+afk: false
 socialspy: false
 npc: false
 powertoolsenabled: true
@@ -16,15 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1734015853813
-  login: 1734015200556
+  logout: 1734635958530
+  login: 1734635836745
 money: '0'
 last-account-name: tim
 logoutlocation:
   world: 0747e10b-6698-4b55-b2c9-039d910c891c
   world-name: world
-  x: 29.86545592773571
-  y: 57.0
-  z: 56.008166161471216
-  yaw: -35.537384033203125
-  pitch: 3.4499921798706055
+  x: 504.83389485182613
+  y: 75.0
+  z: 70.24576077136956
+  yaw: 60.162078857421875
+  pitch: 22.349994659423828
+lastlocation:
+  world: 220fb01e-acfa-4efb-8648-7abbed63b7cb
+  world-name: world_nether
+  x: 17.697102572639967
+  y: 5.0
+  z: 4.217694469362942
+  yaw: -82.35077667236328
+  pitch: 13.799993515014648

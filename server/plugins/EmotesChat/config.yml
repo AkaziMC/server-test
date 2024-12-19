@@ -12,6 +12,10 @@ config:
       code: ':heart:'
       emote: '♡'
       permission: ''
+    cube:
+      code: ':cube:'
+      emote: '⯀'
+      permission: ''
 
 messages:
   emotes-list-header: '&a&lEMOTES LIST'

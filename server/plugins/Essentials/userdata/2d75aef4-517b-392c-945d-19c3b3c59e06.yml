@@ -4,7 +4,7 @@ godmode: false
 muted: false
 jailed: false
 ip-address: 0:0:0:0:0:0:0:1
-afk: true
+afk: false
 socialspy: false
 npc: false
 powertoolsenabled: true
@@ -16,23 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1734015853801
-  login: 1734014520589
+  logout: 1734635667293
+  login: 1734633371611
 money: '0'
 last-account-name: Adrian
 logoutlocation:
   world: 0747e10b-6698-4b55-b2c9-039d910c891c
   world-name: world
-  x: -373.67261703494387
-  y: 125.0
-  z: -805.3000000119209
-  yaw: 144.6002197265625
-  pitch: 12.600000381469727
+  x: 1351.2296563900497
+  y: 45.0
+  z: 465.39941363477993
+  yaw: -306.3000183105469
+  pitch: 0.4500000476837158
 lastlocation:
-  world: 0747e10b-6698-4b55-b2c9-039d910c891c
-  world-name: world
-  x: 129.33725038036528
-  y: 64.0
-  z: 239.00673827327284
-  yaw: -12.600001335144043
-  pitch: -15.150001525878906
+  world: 220fb01e-acfa-4efb-8648-7abbed63b7cb
+  world-name: world_nether
+  x: 17.30000001192093
+  y: 5.0
+  z: 4.699999988079071
+  yaw: -1.9507702589035034
+  pitch: 16.79999351501465
