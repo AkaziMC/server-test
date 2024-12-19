@@ -10,10 +10,9 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: server-icon.png
   server_motd:
-  - '&l&1THE SERVER IS BACK!!!'
+  - '&l&1Welcome! View the rules with /rules.'
   allow_motd: true
   allow_query: true
-  allow_voice: true
   min_minecraft_protocol: 47
   max_minecraft_protocol: 340
   allow_protocol_v3: true

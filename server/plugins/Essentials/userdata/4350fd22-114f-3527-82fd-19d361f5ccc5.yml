@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 192.168.10.213
+ip-address: 0:0:0:0:0:0:0:1
 afk: false
 socialspy: false
 npc: false
@@ -16,15 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733715787400
-  login: 1733715745287
+  logout: 1734444768701
+  login: 1734444679782
 money: '0'
 last-account-name: Cenozo3
 logoutlocation:
-  world: 2ac5005f-4c68-42bd-b3c5-7a0057b6b23e
+  world: 0747e10b-6698-4b55-b2c9-039d910c891c
   world-name: world
-  x: 78.05105599213897
-  y: 67.0
-  z: 226.69999998807907
-  yaw: 34.80000305175781
-  pitch: 3.1500003337860107
+  x: 1351.401624726648
+  y: 45.0
+  z: 462.95185171205804
+  yaw: -171.00027465820312
+  pitch: 10.35000991821289
+lastlocation:
+  world: 0747e10b-6698-4b55-b2c9-039d910c891c
+  world-name: world
+  x: -1172.7561000072856
+  y: 80.0
+  z: 365.0430378685116
+  yaw: -45.435791015625
+  pitch: 10.084210395812988

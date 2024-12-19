@@ -16,15 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733857483454
-  login: 1733857134790
+  logout: 1734635471928
+  login: 1734635434375
 money: '0'
 last-account-name: Spoke
 logoutlocation:
   world: 0747e10b-6698-4b55-b2c9-039d910c891c
   world-name: world
-  x: 295.0632811371433
-  y: 19.0
-  z: 358.3881992827773
-  yaw: 338.767578125
-  pitch: 29.081321716308594
+  x: -1601.4762086275532
+  y: 69.0
+  z: -1228.2361863199387
+  yaw: 116.3729019165039
+  pitch: 54.77177429199219
+lastlocation:
+  world: 220fb01e-acfa-4efb-8648-7abbed63b7cb
+  world-name: world_nether
+  x: 16.038357146056416
+  y: 5.0
+  z: -0.8989452869538335
+  yaw: 120.87732696533203
+  pitch: 31.168012619018555

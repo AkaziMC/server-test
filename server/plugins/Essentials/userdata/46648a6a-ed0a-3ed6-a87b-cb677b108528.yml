@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734635672540
+  login: 1734633231201
+money: '0'
+last-account-name: b___
+logoutlocation:
+  world: 0747e10b-6698-4b55-b2c9-039d910c891c
+  world-name: world
+  x: 282.71429696709544
+  y: 65.0
+  z: -396.73202412062733
+  yaw: 305.2503662109375
+  pitch: 9.149992942810059

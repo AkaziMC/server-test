@@ -1,0 +1,15 @@
+Permissions: false
+Economy:
+  Enable: false
+  Divorce: 100.0
+  Marry: 100.0
+  Tp: 25.0
+  HomeTp: 25.0
+  SetHome: 100.0
+HealthRegain:
+  Enable: true
+  Amount: 2
+BonusXp:
+  Enable: true
+  Multiplier: 2
+Announcement: false
